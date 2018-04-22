@@ -1,0 +1,136 @@
+ 
+
+
+
+
+Kanban method
+
+
+
+
+
+
+
+
+
+Name student : Abdulaziz Rajeh Al Rajeh  
+Number student : 436026174
+Teacher name : Abdulrahman Al Mobark
+
+
+
+
+
+Abstract:
+This paper will discuss methodology it will describe faces ,principle, advantage ,disadvantage .It always comparison to scrum method . Finally we will state our conclusion.
+Introduction:
+ I will investigate in this research an agile method namely Kanban.
+Kanban is a Japanese term meaning signal or sign plate.
+Is one of the basic tools of the JIT system (just in time), it refers to the cycle of production and material replenishment.
+They give priority to ongoing work and can then take the next one.
+
+History of Kanban:
+Toyota in the late 1940s found a better engineering process (Kanban) through the supermarket.
+Do not notice that they are stuffing an item through the store and not the store.
+Kanban means in Japanese the visual signal or card.
+Kanban method:
+Kanban is a method for managing the creation of products with an emphasis on continual delivery while not overburdening the development team. 
+Kanban Works:
+Kanban uses sticky notes on the blackboard to take a comprehensive picture of your work.
+Seeing how your work flows within your team's process lets you not only communicate status, but also give and receive context for the work.
+ 
+
+Four Core Kanban Principles (2)  
+ 1. Visualize Work
+By creating a visual model of your work and workflow, you can observe the flow of work moving through your Kanban system. Making the work visible—along with blockers, bottlenecks and queues—instantly leads to increased communication and collaboration. You can learn more about why flow matters here.
+2. Limit Work in Process
+By limiting how much unfinished work is in process, you can reduce the time it takes an item to travel through the Kanban system. You can also avoid problems caused by task switching and reduce the need to constantly re-prioritize items. You can learn more about the benefits of limiting WIP here.
+3. Focus on Flow
+By using work-in-process (WIP) limits and developing team-driven policies, you can optimize your Kanban system to improve the flow of work, collect metrics to analyze flow, and even get leading indicators of future problems by analyzing the flow of work. You can learn more about Kanban and Lean metrics here.
+4. Continuous Improvement
+Once your Kanban system is in place, it becomes the cornerstone for a culture of continuous improvement. Teams measure their effectiveness by tracking flow, quality, throughput, lead times and more. Experiments and analysis can change the system to improve the team’s effectiveness. You can learn more about continuous improvement here.
+Kanban is based on 3 basic principles: (4)
+•	Visualize what you do today (workflow): seeing all the items in context of each other can be very informative
+•	Limit the amount of work in progress (WIP): this helps balance the flow-based approach so teams don™t start and commit to too much work at once
+•	Enhance flow: when something is finished, the next highest thing from the backlog is pulled into play.
+Values :
+Teams applying Kanban to improve the services they deliver following the following values:
+1-Transparency : sharing information openly using clear and straightforward language improves the flow of business value.
+2-Balance : different aspects, perspectives, and capabilities must be balanced in order to achieve effectiveness.
+3-Collaboration : Kanban was created to improve the way people work together.
+4-Customer Focus : Kanban systems aim to optimize the flow of value to customers that are external from the system but may be internal or external to the organization in which the system exists.
+5-Flow : Work is a continuous or episodic flow of value.
+6-Leadership : Leadership (the ability to inspire others to act via example, words, and reflection) is needed at all levels in order to realize continuous improvement and deliver value.
+7-Understanding : Individual and organizational self-knowledge of the starting point is necessary to move forward and improve.
+8-Agreement : Everyone involved with a system are committed to improvement and agree to jointly move towards goals while respecting and accommodating differences of opinion and approach.
+9-Respect : Value, understand, and show consideration for people.
+Kanban for software teams
+Agile software development teams today are able to leverage these same JIT principles by matching the amount of work in progress (WIP) to the team's capacity. This gives teams more flexible planning options, faster output, clearer focus, and transparency throughout the development cycle.
+
+Kanban boards:
+The work of all kanban teams revolves around a kanban board, a tool used to visualize work and optimize the flow of the work among the team. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. A basic kanban board has a three-step workflow: To Do, In Progress, and Done. However, depending on a team's size, structure, and objectives, the workflow can be mapped to meet the unique process of any particular team.
+Kanban cards:
+In Japanese, kanban literally translates to "visual signal". For kanban teams, each work item is represented as a separate card on the board.
+The main purpose of representing work on the form of cards on the Kanban plate is to allow the team to track the progress of the work. Each card in Kanban contains important information about a specific element of a given action. Giving the entire team a complete view of the job manager, a brief description of the job being performed, the duration of the work, etc. Allow team members to see the status of each business item at any given time, together with all the details associated with it.
+Different and smellier in Kanban and scrum:
+Different:
+Kanban: The Kanban methodology is less structured than the Scrum methodology. There is no specific framework in this methodology. It is only based on gradually improving the process. We organized our work in Kanban on the Kanban Plate. In the Kanban process works as follows: 
+1-	Testing
+2-	Ready for release
+3-	Released Columns
+Kanban management criteria are WIP (Work in progress). By managing WIP and monitoring WIP we can optimize the flow of work items.
+  Scrum: Scrum is a well-defined process framework to structure your work. If your company is not using Agile software development methodology then scrum is a good change for your team. When your team used Scrum methodology then they have to work in:
+1-	Iterations
+2-	Cross-functional team
+3-	With product owner
+4-	Under the counseling of Scrum master
+5-	Regular meetings
+6-	Iteration planning
+7-	Sprint reviews
+
+Similarities in scrum and Kanban
+1-	Both are Lean and Agile
+2-	Both limit WIP
+3-	Both use “pull scheduling”
+4-	Both are focus on delivering the releasable software often and early.
+5-	Both use transparency to drive process improvement
+6-	Both need breaking the work into pieces
+7-	Both are based on self-organizing teams
+8-	Both release plan is continuously optimized and based on the empirical data (lead time/velocity).
+
+Advantages of Kanban:
+Kanban is easy to learn and understand the methodology. It improves the workflow and minimizes the time cycle. Some major advantages are listed here:
+•	Kanban methodology increases the process flexibility.
+•	It reduces the wastes from the process.
+•	Kanban is easy to understand the methodology.
+•	It improves the delivery flow.
+•	It reduces the time cycle of the process.
+Disadvantages of Kanban:
+Most of the disadvantages of Kanban is due to misuse or mishandling of Kanban board. Some common disadvantages are given:
+•	Outdated Kanban board can lead to issues in the development process.
+•	Some time Kanban team make the board overcomplicate.
+•	Lack of timing is another disadvantage because there is no timeframes are associated with each phase. 
+Conclusion: 
+We take advantage of this that the Kanban methodology is based on visual observation. Helps to know my needs in a timely manner. The team can learn the workflow through the Kanban board and its card, which is characterized by each card.
+
+
+Reverence :
+1-	https://www.yodiz.com/blog/kanban-vs-scrum-benefits-similarities-pros-and-cons/
+2-	https://leankit.com/learn/kanban/what-is-kanban/
+3-	https://www.atlassian.com/agile/kanban 
+4-	https://www.versionone.com/what-is-kanban/ 
